@@ -1,0 +1,5 @@
+package miApp;
+
+class c {
+
+}

@@ -1,0 +1,5 @@
+package prueba;
+
+class a {
+
+}
